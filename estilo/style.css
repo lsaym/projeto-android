@@ -26,15 +26,15 @@ body{
 }
 header {
     color: white;
-    height: 180px;
+    min-width: 150px;
     background-image: linear-gradient(to bottom, var(--cor04), var(--cor06));
 }
 header > h1 {
     font-size: 3em;
     text-align: center;
     font-family: var(--fonte-destaque);
-    padding-top: 30px;
-    text-shadow: 4px 3px 3px #00000080;
+    padding-top: 50px;
+    text-shadow: 4px 3px 3px #00000026;
 }
 header > p {
     text-align: center;
