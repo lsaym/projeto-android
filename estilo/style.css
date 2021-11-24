@@ -47,6 +47,8 @@ nav{
     background-color: var(--cor06);
     box-shadow: 3px 12px 10px 0px rgba(0, 0, 0, 0.342);
     height: 37px;
+    max-width: 900px;
+    min-width: 300px;
 }
 nav > a{ color: white;
     text-decoration: none;
